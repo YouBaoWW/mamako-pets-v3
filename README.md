@@ -1,5 +1,15 @@
 # 真梦梓 · Q 版桌宠 V3
 
+## 移植到其他 Agent
+
+图片素材完整。另提供 **219 张独立透明 PNG**，无需重新绘制或手动拆图：
+
+- [下载逐帧 PNG 包](portable-frames.zip)（在文件页点 **Download raw file**，或下载整个仓库后解压）。
+- [DeepSeek Harness / Claude Code 移植说明](PORTING.md)。
+- [动作坐标与逐帧时长](animation-map.json) · [无损导出工具](export_frames.py)。
+
+每套 57 个动作帧 + 16 个视线帧，单帧透明画布 192 × 208。素材和工具可独立使用；宿主仍需接入自己的事件与播放器。本包未宣称已安装或实测完整 DeepSeek Harness / Claude Code 插件。
+
 真梦梓的通行证、常服（羁绊）、和服三套桌宠成品，沿用已确认的日系 Q 版画风。每套包含 **9 类标准动作、16 向环视，共 73 帧**。
 
 | 通行证 V3 | 常服（羁绊）V3 | 和服 V3 |

@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "description": "Platform-neutral sprite atlas mapping; milliseconds and zero-based indices.",
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "cell_width": 192,
+    "cell_height": 208,
+    "columns": 8,
+    "rows": 11
+  },
+  "characters": [
+    {
+      "id": "pass-v3",
+      "name": "真梦梓 · 通行证 V3",
+      "spritesheet": "pets__pass-v3__spritesheet.png",
+      "sha256": "cbdf5804dfe1188d7f6d6099c8f23d6f581b71f3636e4f6cfb698c675abb4c43"
+    },
+    {
+      "id": "casual-v3",
+      "name": "真梦梓 · 常服（羁绊）V3",
+      "spritesheet": "pets__casual-v3__spritesheet.png",
+      "sha256": "bc3b174b51f4e5b35e21702d944a42f998063f086a0c2e17395221fea1f04e95"
+    },
+    {
+      "id": "kimono-v3",
+      "name": "真梦梓 · 和服 V3",
+      "spritesheet": "pets__kimono-v3__spritesheet.png",
+      "sha256": "96b7a830c594d78f38aa10f08e06005187efb0dc4af8076aaac28b57d6044009"
+    }
+  ],
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frame_count": 6,
+      "durations_ms": [
+        280,
+        110,
+        110,
+        140,
+        140,
+        320
+      ],
+      "playback": "loop",
+      "label_zh": "待机"
+    },
+    "running-right": {
+      "row": 1,
+      "frame_count": 8,
+      "durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "playback": "loop",
+      "label_zh": "向右移动"
+    },
+    "running-left": {
+      "row": 2,
+      "frame_count": 8,
+      "durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "playback": "loop",
+      "label_zh": "向左移动"
+    },
+    "waving": {
+      "row": 3,
+      "frame_count": 4,
+      "durations_ms": [
+        140,
+        140,
+        140,
+        280
+      ],
+      "playback": "once",
+      "label_zh": "招手"
+    },
+    "jumping": {
+      "row": 4,
+      "frame_count": 5,
+      "durations_ms": [
+        140,
+        140,
+        140,
+        140,
+        280
+      ],
+      "playback": "once",
+      "label_zh": "跳跃"
+    },
+    "failed": {
+      "row": 5,
+      "frame_count": 8,
+      "durations_ms": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        240
+      ],
+      "playback": "once",
+      "label_zh": "失落"
+    },
+    "waiting": {
+      "row": 6,
+      "frame_count": 6,
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        260
+      ],
+      "playback": "loop",
+      "label_zh": "等待回应"
+    },
+    "running": {
+      "row": 7,
+      "frame_count": 6,
+      "durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "playback": "loop",
+      "label_zh": "工作／思考"
+    },
+    "review": {
+      "row": 8,
+      "frame_count": 6,
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        280
+      ],
+      "playback": "loop",
+      "label_zh": "复查"
+    }
+  },
+  "look": {
+    "start_row": 9,
+    "count": 16,
+    "angle_step_degrees": 22.5,
+    "clockwise": true,
+    "zero_direction": "up"
+  },
+  "rendering": {
+    "coordinate_origin": "top-left",
+    "frame_anchor": [
+      96,
+      208
+    ],
+    "alpha": "preserve",
+    "trim_frames": false,
+    "frame_count_per_character": 73,
+    "unused_cells": 15
+  },
+  "agent_state_examples": {
+    "ready": "idle",
+    "working": "running",
+    "needs_input": "waiting",
+    "error": "failed",
+    "reviewing": "review"
+  },
+  "playback_note": "Loop/once and Agent mappings are integration defaults, not requirements of the artwork. The running state means working, not walking."
+}

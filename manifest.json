@@ -60,10 +60,28 @@
       "sha256": "b0093a19ba2e2563e293f93b2ec9164d9af2649c41bde5b93e61c4828b43131d"
     },
     {
+      "path": "PORTING.md",
+      "original_path": "PORTING.md",
+      "bytes": 8215,
+      "sha256": "9e0e87adea9a10ad7f01a46a5728facf679c0c0dfedfa8da37e926b6d9a0c898"
+    },
+    {
       "path": "README.md",
       "original_path": "README.md",
-      "bytes": 3092,
-      "sha256": "e395d4cd4f63839dbf9f481be5b2a544626fbf78b8de34543cdeaa82f6a24890"
+      "bytes": 3741,
+      "sha256": "65f8e72a49fe704ccb3cdc61db4487b44c84c517a47549b037ff070c8f421b29"
+    },
+    {
+      "path": "animation-map.json",
+      "original_path": "animation-map.json",
+      "bytes": 3940,
+      "sha256": "50fb006158ec1a9a9fb71fc07eeb0758f66eb5e927cbe23aba81991ed196a696"
+    },
+    {
+      "path": "export_frames.py",
+      "original_path": "export_frames.py",
+      "bytes": 13493,
+      "sha256": "712d598cccaa091544c033f84dfa5c50574755ee16ca0cf9459b9e44dead9143"
     },
     {
       "path": "pets__casual-v3__all-actions.gif",
@@ -444,6 +462,12 @@
       "sha256": "bdeb0223d0365a5c4cd693ecdceba9281b7d6d5f44e36fb6ef95520f0ed28e95"
     },
     {
+      "path": "portable-frames.zip",
+      "original_path": "portable-frames.zip",
+      "bytes": 11054286,
+      "sha256": "e44801335d8b1a8971a95ceecfceebc3c84d5fa9dd7712dedf5a35a4b471b595"
+    },
+    {
       "path": "previews__三套V3样图总览.png",
       "original_path": "previews/三套V3样图总览.png",
       "bytes": 1026926,
@@ -467,5 +491,18 @@
       "bytes": 1534987,
       "sha256": "2a9cebc9a57b9bee10ccd4e3025eeee65a6372d1cdb048ed516ba6ea130febf0"
     }
-  ]
+  ],
+  "portability": {
+    "schema_version": 1,
+    "guide": "PORTING.md",
+    "animation_map": "animation-map.json",
+    "exporter": "export_frames.py",
+    "frame_archive": "portable-frames.zip",
+    "exported_png_frames": 219,
+    "target_integration_notes": [
+      "DeepSeek Harness",
+      "Claude Code"
+    ],
+    "host_plugin_installed_or_tested": false
+  }
 }
