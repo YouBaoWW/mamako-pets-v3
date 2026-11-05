@@ -1,0 +1,471 @@
+{
+  "title": "真梦梓三套 Q 版桌宠 V3",
+  "artwork_version": "V3",
+  "spritesheet_format": {
+    "version": 2,
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "standard_animation_states": 9,
+    "standard_frame_counts": [
+      6,
+      8,
+      8,
+      4,
+      5,
+      8,
+      6,
+      6,
+      6
+    ],
+    "look_directions": 16,
+    "total_frames": 73
+  },
+  "layout": "flat",
+  "filename_mapping": "Replace / in original_path with __; root metadata filenames remain unchanged.",
+  "characters": [
+    {
+      "name": "真梦梓 · 通行证 V3",
+      "spritesheet": "pets__pass-v3__spritesheet.png",
+      "original_path": "pets/pass-v3/spritesheet.png",
+      "sha256": "cbdf5804dfe1188d7f6d6099c8f23d6f581b71f3636e4f6cfb698c675abb4c43"
+    },
+    {
+      "name": "真梦梓 · 常服（羁绊）V3",
+      "spritesheet": "pets__casual-v3__spritesheet.png",
+      "original_path": "pets/casual-v3/spritesheet.png",
+      "sha256": "bc3b174b51f4e5b35e21702d944a42f998063f086a0c2e17395221fea1f04e95"
+    },
+    {
+      "name": "真梦梓 · 和服 V3",
+      "spritesheet": "pets__kimono-v3__spritesheet.png",
+      "original_path": "pets/kimono-v3/spritesheet.png",
+      "sha256": "96b7a830c594d78f38aa10f08e06005187efb0dc4af8076aaac28b57d6044009"
+    }
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "original_path": ".gitattributes",
+      "bytes": 47,
+      "sha256": "b0434943ef3401fffced210f47cf53dc5c85b9f99f35c277cbbbe64c2dfb342c"
+    },
+    {
+      "path": ".gitignore",
+      "original_path": ".gitignore",
+      "bytes": 50,
+      "sha256": "b0093a19ba2e2563e293f93b2ec9164d9af2649c41bde5b93e61c4828b43131d"
+    },
+    {
+      "path": "README.md",
+      "original_path": "README.md",
+      "bytes": 3092,
+      "sha256": "e395d4cd4f63839dbf9f481be5b2a544626fbf78b8de34543cdeaa82f6a24890"
+    },
+    {
+      "path": "pets__casual-v3__all-actions.gif",
+      "original_path": "pets/casual-v3/all-actions.gif",
+      "bytes": 3027813,
+      "sha256": "0e636d421d425b8bd03cc977d6da411d2232605eac3280693492519b1a49f1fc"
+    },
+    {
+      "path": "pets__casual-v3__all-actions.mp4",
+      "original_path": "pets/casual-v3/all-actions.mp4",
+      "bytes": 437406,
+      "sha256": "decd6c693c80af7d00da02f4499790d46ad8ab61a584e4834a1028405470be75"
+    },
+    {
+      "path": "pets__casual-v3__contact-sheet.png",
+      "original_path": "pets/casual-v3/contact-sheet.png",
+      "bytes": 2622007,
+      "sha256": "300e8eac9a574ff93170563fa3ea522729724f6b7bd0a8960675214c3694a5ad"
+    },
+    {
+      "path": "pets__casual-v3__direction-sheet.png",
+      "original_path": "pets/casual-v3/direction-sheet.png",
+      "bytes": 971565,
+      "sha256": "0fcec1d96a227e165c793823a9863fcc3b5c740dea94df852f6095c9cf716c6b"
+    },
+    {
+      "path": "pets__casual-v3__idle-jump-idle.gif",
+      "original_path": "pets/casual-v3/idle-jump-idle.gif",
+      "bytes": 229819,
+      "sha256": "e15b2335893af1c08281da3efc78082f0017569c937aa3f0f6fbf33f10b43b4e"
+    },
+    {
+      "path": "pets__casual-v3__look-loop.gif",
+      "original_path": "pets/casual-v3/look-loop.gif",
+      "bytes": 798541,
+      "sha256": "00197030582abe31ad17b7c11fe9818a586fd85cff99ecd936cf73d2bbfba633"
+    },
+    {
+      "path": "pets__casual-v3__spritesheet.png",
+      "original_path": "pets/casual-v3/spritesheet.png",
+      "bytes": 3203179,
+      "sha256": "bc3b174b51f4e5b35e21702d944a42f998063f086a0c2e17395221fea1f04e95"
+    },
+    {
+      "path": "pets__casual-v3__states__failed.gif",
+      "original_path": "pets/casual-v3/states/failed.gif",
+      "bytes": 108848,
+      "sha256": "31e6aa88d43165cdda3704d2700e7d4f32f5d60ce8d2c0b5c22d834b7209b429"
+    },
+    {
+      "path": "pets__casual-v3__states__idle.gif",
+      "original_path": "pets/casual-v3/states/idle.gif",
+      "bytes": 83226,
+      "sha256": "f6bfc47bcdedc3bd6ec58cb4f7a4b484b90e4e7619d5b2728041060144d64cab"
+    },
+    {
+      "path": "pets__casual-v3__states__jumping.gif",
+      "original_path": "pets/casual-v3/states/jumping.gif",
+      "bytes": 63433,
+      "sha256": "af1561c11fd33a95b4c5d59ba9a8c7da7f1c306f4160fe0c53436fda817cbc48"
+    },
+    {
+      "path": "pets__casual-v3__states__review.gif",
+      "original_path": "pets/casual-v3/states/review.gif",
+      "bytes": 85537,
+      "sha256": "bb39a907175b7ab291f786f695f7f6d69fa9940cb825e2e0dec9b9e43eca0e90"
+    },
+    {
+      "path": "pets__casual-v3__states__running-left.gif",
+      "original_path": "pets/casual-v3/states/running-left.gif",
+      "bytes": 92103,
+      "sha256": "cfa7ffcf4dbf0631f864d0043df277c2274c7ac23bb4dba62535a18ad70f1a59"
+    },
+    {
+      "path": "pets__casual-v3__states__running-right.gif",
+      "original_path": "pets/casual-v3/states/running-right.gif",
+      "bytes": 98483,
+      "sha256": "550666140cb4180c3b6c221ee33a2cfff07503170a0edeb5ba3c447649659715"
+    },
+    {
+      "path": "pets__casual-v3__states__running.gif",
+      "original_path": "pets/casual-v3/states/running.gif",
+      "bytes": 80138,
+      "sha256": "5d8270ff971529410337d66c502c43aa47e010e54ecb967b4fbd2b4b7ad266b7"
+    },
+    {
+      "path": "pets__casual-v3__states__waiting.gif",
+      "original_path": "pets/casual-v3/states/waiting.gif",
+      "bytes": 82707,
+      "sha256": "7559bd76ae879a0c270a7343d930794bfb2bde6590e37b47aeade5d5dbe488a9"
+    },
+    {
+      "path": "pets__casual-v3__states__waving.gif",
+      "original_path": "pets/casual-v3/states/waving.gif",
+      "bytes": 57041,
+      "sha256": "5beeb40d01994c5f5cf9abaf0851d2199830b5a62ea8ef3d6391a3993dc60a61"
+    },
+    {
+      "path": "pets__casual-v3__still-01.png",
+      "original_path": "pets/casual-v3/still-01.png",
+      "bytes": 132935,
+      "sha256": "a80ebe72da878b3e2bb1691980aa7166f1fea62c2d25794dfbed916aabdb851e"
+    },
+    {
+      "path": "pets__casual-v3__still-02.png",
+      "original_path": "pets/casual-v3/still-02.png",
+      "bytes": 138782,
+      "sha256": "66b0dc3454f86880d121808bca7970c6d5854a282ae0755746f20ddfbf23acdc"
+    },
+    {
+      "path": "pets__casual-v3__still-03.png",
+      "original_path": "pets/casual-v3/still-03.png",
+      "bytes": 123217,
+      "sha256": "83ab75a1587b964eee395ffdb6dee19690cab2203fef474ba10bdbfd6a65e0f5"
+    },
+    {
+      "path": "pets__casual-v3__still-04.png",
+      "original_path": "pets/casual-v3/still-04.png",
+      "bytes": 129432,
+      "sha256": "ec93998c08a983381438918c9e295b2fa791eea70fb30b405b041ebfce677b73"
+    },
+    {
+      "path": "pets__casual-v3__timeline.json",
+      "original_path": "pets/casual-v3/timeline.json",
+      "bytes": 4550,
+      "sha256": "bdeb0223d0365a5c4cd693ecdceba9281b7d6d5f44e36fb6ef95520f0ed28e95"
+    },
+    {
+      "path": "pets__kimono-v3__all-actions.gif",
+      "original_path": "pets/kimono-v3/all-actions.gif",
+      "bytes": 3658090,
+      "sha256": "b38cb48e01d047e105cedc675c4eca0bd4b4bbe008b6f886000619985085c147"
+    },
+    {
+      "path": "pets__kimono-v3__all-actions.mp4",
+      "original_path": "pets/kimono-v3/all-actions.mp4",
+      "bytes": 486972,
+      "sha256": "b5c65f326668dfe2cc2260dabfa4957776b156ca49d43bf2e3f385330080a724"
+    },
+    {
+      "path": "pets__kimono-v3__contact-sheet.png",
+      "original_path": "pets/kimono-v3/contact-sheet.png",
+      "bytes": 3373452,
+      "sha256": "2e4a88367259f75d6530a43cf12f1f5d5c96496f1ed7c9f7a4f0fe46c241e2d3"
+    },
+    {
+      "path": "pets__kimono-v3__direction-sheet.png",
+      "original_path": "pets/kimono-v3/direction-sheet.png",
+      "bytes": 1293406,
+      "sha256": "df8a52249863b4f2352caaa2b91de6663f38e0552e038df8e38a73eae6802a3a"
+    },
+    {
+      "path": "pets__kimono-v3__idle-jump-idle.gif",
+      "original_path": "pets/kimono-v3/idle-jump-idle.gif",
+      "bytes": 278361,
+      "sha256": "bb224b6dc66956fb30e2b41cd051f9d53deb76daa19db9682744e0dce0390aa3"
+    },
+    {
+      "path": "pets__kimono-v3__look-loop.gif",
+      "original_path": "pets/kimono-v3/look-loop.gif",
+      "bytes": 1045126,
+      "sha256": "c81ad0164b37996d01a4fc94a2ba294605787375ff187c701e7930c43aa2f84c"
+    },
+    {
+      "path": "pets__kimono-v3__spritesheet.png",
+      "original_path": "pets/kimono-v3/spritesheet.png",
+      "bytes": 4057405,
+      "sha256": "96b7a830c594d78f38aa10f08e06005187efb0dc4af8076aaac28b57d6044009"
+    },
+    {
+      "path": "pets__kimono-v3__states__failed.gif",
+      "original_path": "pets/kimono-v3/states/failed.gif",
+      "bytes": 134827,
+      "sha256": "ad65e2ec574d89296e0c317995de7f634c669103f92413dd2a811982ada69381"
+    },
+    {
+      "path": "pets__kimono-v3__states__idle.gif",
+      "original_path": "pets/kimono-v3/states/idle.gif",
+      "bytes": 105722,
+      "sha256": "4dc5283cfbd7e1667b4dc0359622f7efcdc47f081eb9891cf507102ab77bb66d"
+    },
+    {
+      "path": "pets__kimono-v3__states__jumping.gif",
+      "original_path": "pets/kimono-v3/states/jumping.gif",
+      "bytes": 66983,
+      "sha256": "89f0827e929e18a79722722976266485090e46b9dabaccff1590b754260cd2c5"
+    },
+    {
+      "path": "pets__kimono-v3__states__review.gif",
+      "original_path": "pets/kimono-v3/states/review.gif",
+      "bytes": 90158,
+      "sha256": "bc621f4f797decf8c1bc4e6fcc4721d5ddeb463262ccee19607f4c04ea75c79f"
+    },
+    {
+      "path": "pets__kimono-v3__states__running-left.gif",
+      "original_path": "pets/kimono-v3/states/running-left.gif",
+      "bytes": 124309,
+      "sha256": "3f0d5ab221a1d45e0f686f577a9305d2ccf2487c88c5cf449bbf3b2e4783aad9"
+    },
+    {
+      "path": "pets__kimono-v3__states__running-right.gif",
+      "original_path": "pets/kimono-v3/states/running-right.gif",
+      "bytes": 123027,
+      "sha256": "c8954c13e44f9ad83e85aba9ac45eb831f900f308d323424212b92781946b101"
+    },
+    {
+      "path": "pets__kimono-v3__states__running.gif",
+      "original_path": "pets/kimono-v3/states/running.gif",
+      "bytes": 89860,
+      "sha256": "69530f6b7b2968f599bbe87286cd7dd7c1be417e3e32c248a0a4cde9424793a8"
+    },
+    {
+      "path": "pets__kimono-v3__states__waiting.gif",
+      "original_path": "pets/kimono-v3/states/waiting.gif",
+      "bytes": 102190,
+      "sha256": "83dae03fd17e3d041fb52e0c80450cf0011c32e95b73ad7fdd9812a2395bd178"
+    },
+    {
+      "path": "pets__kimono-v3__states__waving.gif",
+      "original_path": "pets/kimono-v3/states/waving.gif",
+      "bytes": 69781,
+      "sha256": "63840370bc11b2f07d639909f4b6b5755e29a3f6e99888171d7b8ed455df3c76"
+    },
+    {
+      "path": "pets__kimono-v3__still-01.png",
+      "original_path": "pets/kimono-v3/still-01.png",
+      "bytes": 177430,
+      "sha256": "61b0e3f2d3ebbc2a4a0ce322c443eb6174db9c19a351e1bdb71853dae75464f0"
+    },
+    {
+      "path": "pets__kimono-v3__still-02.png",
+      "original_path": "pets/kimono-v3/still-02.png",
+      "bytes": 181863,
+      "sha256": "4ed6ab55902d6b575ed27e070c1ca0262ccae86b3368d3ce0d54efc835a95517"
+    },
+    {
+      "path": "pets__kimono-v3__still-03.png",
+      "original_path": "pets/kimono-v3/still-03.png",
+      "bytes": 131593,
+      "sha256": "26e1cf2cd1c360d4d59a3ca40c2c12cd0f69805b183562b6abd54b4013975f8f"
+    },
+    {
+      "path": "pets__kimono-v3__still-04.png",
+      "original_path": "pets/kimono-v3/still-04.png",
+      "bytes": 149485,
+      "sha256": "cdc650af487d2eab289bd0900a531560db9761744506dd4c8b89f91460bd9e9e"
+    },
+    {
+      "path": "pets__kimono-v3__timeline.json",
+      "original_path": "pets/kimono-v3/timeline.json",
+      "bytes": 4550,
+      "sha256": "bdeb0223d0365a5c4cd693ecdceba9281b7d6d5f44e36fb6ef95520f0ed28e95"
+    },
+    {
+      "path": "pets__pass-v3__all-actions.gif",
+      "original_path": "pets/pass-v3/all-actions.gif",
+      "bytes": 3415513,
+      "sha256": "8f5ba03dfd0a6e23bbd0313743e8dc13751511d44eee138d3cb0f28705868dc2"
+    },
+    {
+      "path": "pets__pass-v3__all-actions.mp4",
+      "original_path": "pets/pass-v3/all-actions.mp4",
+      "bytes": 512274,
+      "sha256": "43116df5b844467eacf76cdb9adc60f55e89c025eddfedba7dd81cd608844638"
+    },
+    {
+      "path": "pets__pass-v3__contact-sheet.png",
+      "original_path": "pets/pass-v3/contact-sheet.png",
+      "bytes": 2926530,
+      "sha256": "cd19252414d982aadee5249fdb4361b9549f56f101f76dfecf76b4ed6a65f3c1"
+    },
+    {
+      "path": "pets__pass-v3__direction-sheet.png",
+      "original_path": "pets/pass-v3/direction-sheet.png",
+      "bytes": 1025137,
+      "sha256": "cee2c458fb0dc26b2e421a9de466448af883daf6ced981051127a0e94e17342f"
+    },
+    {
+      "path": "pets__pass-v3__idle-jump-idle.gif",
+      "original_path": "pets/pass-v3/idle-jump-idle.gif",
+      "bytes": 241898,
+      "sha256": "8573ebc07537b2b8932ffd26cd23d3d4be4e08db1d25d4433d8a847c0dae834b"
+    },
+    {
+      "path": "pets__pass-v3__look-loop.gif",
+      "original_path": "pets/pass-v3/look-loop.gif",
+      "bytes": 846485,
+      "sha256": "8e0efaa3400eacb15b29a05f122c98e7fb245d195bc3acbe5a99d45e2507d670"
+    },
+    {
+      "path": "pets__pass-v3__spritesheet.png",
+      "original_path": "pets/pass-v3/spritesheet.png",
+      "bytes": 3655233,
+      "sha256": "cbdf5804dfe1188d7f6d6099c8f23d6f581b71f3636e4f6cfb698c675abb4c43"
+    },
+    {
+      "path": "pets__pass-v3__states__failed.gif",
+      "original_path": "pets/pass-v3/states/failed.gif",
+      "bytes": 126282,
+      "sha256": "9759b5da49c99df06f6f8f857ed9bba48a7f90bdb6aca7b5cc5e5e905f38d864"
+    },
+    {
+      "path": "pets__pass-v3__states__idle.gif",
+      "original_path": "pets/pass-v3/states/idle.gif",
+      "bytes": 87788,
+      "sha256": "9456cd6897ed5cba926aa5cd53e4fd6e21a17a3e65dbf4bcaca71f82fc7cffa2"
+    },
+    {
+      "path": "pets__pass-v3__states__jumping.gif",
+      "original_path": "pets/pass-v3/states/jumping.gif",
+      "bytes": 66388,
+      "sha256": "730ef601924267e122ae1701f735a3a4e744def61576c83184d3aeb3c89cb4f8"
+    },
+    {
+      "path": "pets__pass-v3__states__review.gif",
+      "original_path": "pets/pass-v3/states/review.gif",
+      "bytes": 97888,
+      "sha256": "b5d2cdc4ec57ccc2ecacbe8fd384fe5fd63e3ed2e9fed5c9a0a0bbaf759e55e4"
+    },
+    {
+      "path": "pets__pass-v3__states__running-left.gif",
+      "original_path": "pets/pass-v3/states/running-left.gif",
+      "bytes": 119247,
+      "sha256": "4e920defb503d441be855289c2a80a0cb1e437bcc80bba42cfd07eaeeb02ec8b"
+    },
+    {
+      "path": "pets__pass-v3__states__running-right.gif",
+      "original_path": "pets/pass-v3/states/running-right.gif",
+      "bytes": 101327,
+      "sha256": "ef4264a48b7f89925111cc0a70f795aef694f6d5ecac96a80f5b065ea80da1c7"
+    },
+    {
+      "path": "pets__pass-v3__states__running.gif",
+      "original_path": "pets/pass-v3/states/running.gif",
+      "bytes": 93905,
+      "sha256": "c9fd0897e5f2118403586b221f52ad0c0b168dc7d295839734b9325f89002411"
+    },
+    {
+      "path": "pets__pass-v3__states__waiting.gif",
+      "original_path": "pets/pass-v3/states/waiting.gif",
+      "bytes": 94879,
+      "sha256": "543e1c1fcf93a5840b8c93c6c60c65374cc7069f97be18814cae19799b7a13e8"
+    },
+    {
+      "path": "pets__pass-v3__states__waving.gif",
+      "original_path": "pets/pass-v3/states/waving.gif",
+      "bytes": 62753,
+      "sha256": "5a727ac6f530fa521ee546c81ac33ead8b8726103b5580c33bce379117de4607"
+    },
+    {
+      "path": "pets__pass-v3__still-01.png",
+      "original_path": "pets/pass-v3/still-01.png",
+      "bytes": 137629,
+      "sha256": "8a3927a61e30b767cc43390cdc0462f6d9886893f42e89b3f7b218acdba6aa61"
+    },
+    {
+      "path": "pets__pass-v3__still-02.png",
+      "original_path": "pets/pass-v3/still-02.png",
+      "bytes": 154800,
+      "sha256": "b6a06bb649396b92c94e74e49fa4e18580cbc564a7027a43dff823f540316403"
+    },
+    {
+      "path": "pets__pass-v3__still-03.png",
+      "original_path": "pets/pass-v3/still-03.png",
+      "bytes": 126703,
+      "sha256": "b244ecec0ebf2614f410ad63b8bd76472ee09017ea5ef2c847227bb1a55ab1a9"
+    },
+    {
+      "path": "pets__pass-v3__still-04.png",
+      "original_path": "pets/pass-v3/still-04.png",
+      "bytes": 149919,
+      "sha256": "add05960130f10e63a37fe3abacce1b162308032f0b6c5e071aa76941b90ab9f"
+    },
+    {
+      "path": "pets__pass-v3__timeline.json",
+      "original_path": "pets/pass-v3/timeline.json",
+      "bytes": 4550,
+      "sha256": "bdeb0223d0365a5c4cd693ecdceba9281b7d6d5f44e36fb6ef95520f0ed28e95"
+    },
+    {
+      "path": "previews__三套V3样图总览.png",
+      "original_path": "previews/三套V3样图总览.png",
+      "bytes": 1026926,
+      "sha256": "b2a31361e688ed44b99a73857971b92ae1352ae050b8a32131a84eafa7cca3da"
+    },
+    {
+      "path": "previews__和服-V3-样图.png",
+      "original_path": "previews/和服-V3-样图.png",
+      "bytes": 1660985,
+      "sha256": "ed1edb730fe86df443a49b1a7bbb6fb3db0d6db07170b3bc5650d6c07c4369f7"
+    },
+    {
+      "path": "previews__常服羁绊-V3-样图.png",
+      "original_path": "previews/常服羁绊-V3-样图.png",
+      "bytes": 1347750,
+      "sha256": "f9f4db20363a51da4a48dd4f5b484da212d2b5ba5ffeea0d9226140ea8e969dd"
+    },
+    {
+      "path": "previews__通行证-V3-样图.png",
+      "original_path": "previews/通行证-V3-样图.png",
+      "bytes": 1534987,
+      "sha256": "2a9cebc9a57b9bee10ccd4e3025eeee65a6372d1cdb048ed516ba6ea130febf0"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+[
+  {
+    "milliseconds": 0,
+    "state": "idle",
+    "frame": 0
+  },
+  {
+    "milliseconds": 280,
+    "state": "idle",
+    "frame": 1
+  },
+  {
+    "milliseconds": 390,
+    "state": "idle",
+    "frame": 2
+  },
+  {
+    "milliseconds": 500,
+    "state": "idle",
+    "frame": 3
+  },
+  {
+    "milliseconds": 640,
+    "state": "idle",
+    "frame": 4
+  },
+  {
+    "milliseconds": 780,
+    "state": "idle",
+    "frame": 5
+  },
+  {
+    "milliseconds": 1100,
+    "state": "running-right",
+    "frame": 0
+  },
+  {
+    "milliseconds": 1220,
+    "state": "running-right",
+    "frame": 1
+  },
+  {
+    "milliseconds": 1340,
+    "state": "running-right",
+    "frame": 2
+  },
+  {
+    "milliseconds": 1460,
+    "state": "running-right",
+    "frame": 3
+  },
+  {
+    "milliseconds": 1580,
+    "state": "running-right",
+    "frame": 4
+  },
+  {
+    "milliseconds": 1700,
+    "state": "running-right",
+    "frame": 5
+  },
+  {
+    "milliseconds": 1820,
+    "state": "running-right",
+    "frame": 6
+  },
+  {
+    "milliseconds": 1940,
+    "state": "running-right",
+    "frame": 7
+  },
+  {
+    "milliseconds": 2160,
+    "state": "running-left",
+    "frame": 0
+  },
+  {
+    "milliseconds": 2280,
+    "state": "running-left",
+    "frame": 1
+  },
+  {
+    "milliseconds": 2400,
+    "state": "running-left",
+    "frame": 2
+  },
+  {
+    "milliseconds": 2520,
+    "state": "running-left",
+    "frame": 3
+  },
+  {
+    "milliseconds": 2640,
+    "state": "running-left",
+    "frame": 4
+  },
+  {
+    "milliseconds": 2760,
+    "state": "running-left",
+    "frame": 5
+  },
+  {
+    "milliseconds": 2880,
+    "state": "running-left",
+    "frame": 6
+  },
+  {
+    "milliseconds": 3000,
+    "state": "running-left",
+    "frame": 7
+  },
+  {
+    "milliseconds": 3220,
+    "state": "waving",
+    "frame": 0
+  },
+  {
+    "milliseconds": 3360,
+    "state": "waving",
+    "frame": 1
+  },
+  {
+    "milliseconds": 3500,
+    "state": "waving",
+    "frame": 2
+  },
+  {
+    "milliseconds": 3640,
+    "state": "waving",
+    "frame": 3
+  },
+  {
+    "milliseconds": 3920,
+    "state": "jumping",
+    "frame": 0
+  },
+  {
+    "milliseconds": 4060,
+    "state": "jumping",
+    "frame": 1
+  },
+  {
+    "milliseconds": 4200,
+    "state": "jumping",
+    "frame": 2
+  },
+  {
+    "milliseconds": 4340,
+    "state": "jumping",
+    "frame": 3
+  },
+  {
+    "milliseconds": 4480,
+    "state": "jumping",
+    "frame": 4
+  },
+  {
+    "milliseconds": 4760,
+    "state": "failed",
+    "frame": 0
+  },
+  {
+    "milliseconds": 4900,
+    "state": "failed",
+    "frame": 1
+  },
+  {
+    "milliseconds": 5040,
+    "state": "failed",
+    "frame": 2
+  },
+  {
+    "milliseconds": 5180,
+    "state": "failed",
+    "frame": 3
+  },
+  {
+    "milliseconds": 5320,
+    "state": "failed",
+    "frame": 4
+  },
+  {
+    "milliseconds": 5460,
+    "state": "failed",
+    "frame": 5
+  },
+  {
+    "milliseconds": 5600,
+    "state": "failed",
+    "frame": 6
+  },
+  {
+    "milliseconds": 5740,
+    "state": "failed",
+    "frame": 7
+  },
+  {
+    "milliseconds": 5980,
+    "state": "waiting",
+    "frame": 0
+  },
+  {
+    "milliseconds": 6130,
+    "state": "waiting",
+    "frame": 1
+  },
+  {
+    "milliseconds": 6280,
+    "state": "waiting",
+    "frame": 2
+  },
+  {
+    "milliseconds": 6430,
+    "state": "waiting",
+    "frame": 3
+  },
+  {
+    "milliseconds": 6580,
+    "state": "waiting",
+    "frame": 4
+  },
+  {
+    "milliseconds": 6730,
+    "state": "waiting",
+    "frame": 5
+  },
+  {
+    "milliseconds": 6990,
+    "state": "running",
+    "frame": 0
+  },
+  {
+    "milliseconds": 7110,
+    "state": "running",
+    "frame": 1
+  },
+  {
+    "milliseconds": 7230,
+    "state": "running",
+    "frame": 2
+  },
+  {
+    "milliseconds": 7350,
+    "state": "running",
+    "frame": 3
+  },
+  {
+    "milliseconds": 7470,
+    "state": "running",
+    "frame": 4
+  },
+  {
+    "milliseconds": 7590,
+    "state": "running",
+    "frame": 5
+  },
+  {
+    "milliseconds": 7810,
+    "state": "review",
+    "frame": 0
+  },
+  {
+    "milliseconds": 7960,
+    "state": "review",
+    "frame": 1
+  },
+  {
+    "milliseconds": 8110,
+    "state": "review",
+    "frame": 2
+  },
+  {
+    "milliseconds": 8260,
+    "state": "review",
+    "frame": 3
+  },
+  {
+    "milliseconds": 8410,
+    "state": "review",
+    "frame": 4
+  },
+  {
+    "milliseconds": 8560,
+    "state": "review",
+    "frame": 5
+  }
+]
